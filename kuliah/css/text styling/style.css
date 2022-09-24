@@ -1,0 +1,12 @@
+h1 {
+
+  font-size: 150px;
+  color: aquamarine;
+  text-decoration: line-through;
+  text-transform: uppercase;
+}
+
+p {
+  text-align: left;
+  text-indent: 20px;
+}
